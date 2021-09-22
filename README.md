@@ -1,8 +1,7 @@
 # Forsk_Project_Batch-15
-data science project practicing
+E-Commerce Store Review Classification using Deep Learning Techniques with Cloud Deployment
 
-E-Commerce Store Review Classification using Deep Learning Techniques with Cloud Deployment:
- Creating a Web Based Dashboard to Gain Real Time Analysis on How Customers Feel About
+Creating a Web Based Dashboard to Gain Real Time Analysis on How Customers Feel About
 Client's Product Using Machine Learning, Deep Learning and NLP Techniques with Data Processing on Large Dataset.
 
 Client Expectation :
