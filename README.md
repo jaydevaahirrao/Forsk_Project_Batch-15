@@ -1,4 +1,4 @@
-# DS-ML-practice
+# Forsk_Project_Batch-15
 data science project practicing
 
 E-Commerce Store Review Classification using Deep Learning Techniques with Cloud Deployment:
